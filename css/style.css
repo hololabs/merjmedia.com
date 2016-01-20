@@ -504,6 +504,38 @@ hr.grey {
 	border: none;
 }
 
+.contact-links{
+  display: block;
+  font-size: 12px;
+  text-decoration: none;
+  text-align: center;
+  white-space: nowrap;
+}
+.contact-links h4 {
+  margin: 0;
+}
+.contact-links h4 {
+  margin: 0;
+}
+.contact-links a {
+  border: none !important;
+}
+.contact-links a:hover{
+  text-decoration: underline;
+}
+.contact-links ul
+{
+  margin-top: 10px;
+}
+
+.contact-link-icons {
+  font-size: 1.5em;
+  text-align: center;
+}
+.contact-link-icons a {
+  border: none !important;
+}
+
 /* Section, Footer & Misc ------------------------------------------ */
 .content{
 	padding-top: 50px;

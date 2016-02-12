@@ -357,7 +357,7 @@ body.color-6 #footer {
 .logotext-alt {
   font-family: 'Shadows Into Light', cursive;
   text-transform: none;
-  font-size: 0.5em;  
+  font-size: 0.6em;  
 }
 
 div#top-nav{
@@ -411,7 +411,7 @@ div#top-nav #fixed-nav li.current a {
 }
 .slogan h2{
   font-family: 'Shadows Into Light', cursive;
-  font-size: 1em;
+  font-size: 1.25em;
 	text-transform: none;
 	text-shadow: 2px 2px 2px #333333;
 	color: #CCC;

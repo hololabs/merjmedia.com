@@ -61,7 +61,7 @@ h3 {
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 16px;
 	letter-spacing: 1px;
 }
 
@@ -357,7 +357,11 @@ body.color-6 #footer {
 .logotext-alt {
   font-family: 'Shadows Into Light', cursive;
   text-transform: none;
-  font-size: 0.6em;  
+  font-size: 0.6em;
+  margin-left: 5px;
+}
+.logotext img {
+  height: 40px;
 }
 
 div#top-nav{
@@ -426,6 +430,19 @@ div#top-nav #fixed-nav li.current a {
 .home .hero{
 	margin-top: 0px;
 }
+
+.hero img {
+  height: 175px;
+}
+
+.hero-title {
+  margin-top: 20px;
+}
+
+.hero-subtitle {
+  margin-top: 40px;
+}
+
 
 /* Backgrounds ------------------------------------------ */
 .bg-fixed {
@@ -523,6 +540,10 @@ hr.grey {
 }
 .contact-links a:hover{
   text-decoration: underline;
+}
+
+.contact-links .fa-ul {
+  margin-left: 0;
 }
 
 .contact-link-icons {

@@ -572,15 +572,19 @@ hr.grey {
 }
 .title h2{
 	font-weight: bold;
-	font-size: 2.2em;
+	font-size: 2em;
 	margin: 0px;
 	text-align: center;
 }
 .title p{
 	letter-spacing: 1px;
-line-height: 1.6em;
-font-size: 20px;
-margin: 0px;
+	line-height: 1.8em;
+	font-size: 1.8em;
+	margin: 0px;
+}
+.subtitle{
+	letter-spacing: 1px;
+	font-size: 1.3em;
 }
 .text-center{
 	text-align: center;
